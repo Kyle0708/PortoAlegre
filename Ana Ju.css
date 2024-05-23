@@ -1,0 +1,45 @@
+.container {
+    margin: 0 auto;
+    width: 960px;
+    }
+
+    h1 a {
+        color: #242323;
+        text-decoration: none; 
+    }
+    body {
+        background: #fdd8ae;
+        font-family: "Times New Roman", "Lucida Sans Unicode", Verdana, sans-serif;
+        line-height: 1.5;
+        }
+        .place {
+            border-color: #242323 #582a18 #242323 #582a18;
+            border: 10px solid #242323;
+            margin-bottom: 30px;
+            padding: 2px;
+            }
+        
+          .place img {
+           border: 1px solid #242323;
+           float: left;
+           margin: 10px 10px 0 0;
+           width: 300px;
+           padding: 2px;
+            }
+            .clear {
+            clear: both;
+             }
+
+             .sidenote {
+                background-color: #ffe6c9;
+                border: 1px solid #582a18;
+                float: right;
+                padding: 10px;
+                width: 260px;
+                }
+
+                .places {
+                    float: left;
+                    width: 660px;
+                    }
+                    
